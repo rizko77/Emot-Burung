@@ -13,6 +13,7 @@ Buka Terminal (LINUX Terminal, Termux)
 - sudo apt update && apt upgrade
 - sudo apt install python
 - sudo apt install git
+- pip install ascii-magic
 - git clone https://github.com/rizko77/Emot-Burung
 - cd Emot-Burung
 - python emot-burung.py (Enter)
@@ -21,6 +22,10 @@ Buka Terminal (LINUX Terminal, Termux)
 - apt update && apt upgrade
 - pkg install python
 - pkg install git
+- pip install ascii-magic
 - git clone https://github.com/rizko77/Emot-Burung
 - cd Emot-Burung
 - python emot-burung.py (Enter)
+
+
+# Selamat Mencoba <3
